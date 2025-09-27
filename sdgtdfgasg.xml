@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://quiz.musescore.com">
+  <channel>
+    <title>quiz.musescore.com</title>
+    <link>https://quiz.musescore.com</link>
+    <description/>
+
+    <item>
+      <title>sdgf sdzdg dfghd dfbh dfhdf h</title>
+      <link>https://quiz.musescore.com/</link>
+      <description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>
+      <dc:creator>royal</dc:creator>
+      <guid isPermaLink="false">13584 at https://quiz.musescore.com/</guid>
+    </item>
+
+  </channel>
+</rss>
